@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@200;400;700&display=swap');
+
+.App {
+  font-family: 'Noto Sans Hebrew', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 40px;
+  padding: 40px 40px 80px;
+  background: rgba(0, 0, 0, 0.1);
+}
